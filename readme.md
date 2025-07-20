@@ -26,7 +26,8 @@ I developed this project independently as part of my final-year college submissi
 4. Access the system locally through http://localhost:port
 
 ## 📸 Screenshots
-(Upload screenshots of the user dashboard, menu page, or admin panel and add them here)
+ Screenshots will be uploaded soon,stay tuned!
+
 
 ## 📌 Status
 ✅ Completed  
@@ -34,4 +35,4 @@ Currently being used as a portfolio project to showcase my C# and database skill
 
 ---
 
-📫 Feel free to reach out with suggestions or feedback!
+📫 Feel free to reach out with suggestions,feedback or collaboration opportunities!
